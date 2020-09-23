@@ -40,7 +40,6 @@ void List::display(){
 	}
 }
 
-
 //main prog
 int main() {
 List l; // Init null list
