@@ -50,5 +50,3 @@ l.append(&n3);
 l.display(); // Show list
 return 0;
 }
-
-//end of prog
